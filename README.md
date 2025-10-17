@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">:sparkles: Beginner at programming<br>:books: I'm currently learning</h2>
+<h2 align="center">:books: I'm currently learning</h2>
 
 ###
 
