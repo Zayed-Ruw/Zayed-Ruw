@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="left">Hey :wave:,I'm Zayed</h1>
 
-<!--
-**Zayed-Ruw/Zayed-Ruw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="center">:sparkles: Beginner at programming<br>:books: I'm currently learning</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:zayed-ruw?theme=rule34&padding=1&scale=1&align=bottom&pixelated=1&darkmode=0"  />
+</div>
+
+###
